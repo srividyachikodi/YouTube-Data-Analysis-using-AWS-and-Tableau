@@ -18,4 +18,8 @@ https://www.canva.com/design/DAGLNhUvvz4/WZEeRX87nhpkjsHW2uUa2A/edit?utm_content
 
 https://public.tableau.com/app/profile/sri.vidya.chikodi/viz/YouTubeAnalysis_17212303732870/YouTubeAnalysis
 
+![image](https://github.com/user-attachments/assets/8fb35b8a-339e-46bf-b6b1-4a481f106b6a)
+
+https://public.tableau.com/app/profile/sri.vidya.chikodi/viz/YouTubeDataAnalysis_17223075424430/YouTubeAnalytics-Category
+
 
